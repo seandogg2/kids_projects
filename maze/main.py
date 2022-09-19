@@ -93,10 +93,10 @@ class Maze(object):
 
 
 if __name__ == '__main__':
-    th.Jonathan_test()
-    #jonathan = Maze()
-    #jonathan.load('jonathan1.maze')
-    #jonathan.draw()
+    #th.Jonathan_test()
+    jonathan = Maze()
+    jonathan.load('jonathan1.maze')
+    jonathan.draw()
     #daniel = Maze()
     #daniel.load('charred_ham.maze')
     #daniel.draw()
